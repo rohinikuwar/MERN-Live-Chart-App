@@ -1,0 +1,15 @@
+{
+  "name": "frontend_charts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "mongoose": "^5.13.12",
+    "openssl-nodejs": "^1.0.5",
+    "socket.io": "^4.2.0"
+  }
+}
